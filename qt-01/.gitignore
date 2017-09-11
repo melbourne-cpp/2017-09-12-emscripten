@@ -1,0 +1,5 @@
+*.html*
+*.o
+*.wasm
+.qmake*
+Makefile
