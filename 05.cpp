@@ -3,7 +3,8 @@
  
 void recurse(unsigned int i)
 {
-  std::cout<<i<<"\n";
+  if (i%1000 == 0)
+    std::cout<<i<<std::endl;
   recurse(i+1);
 }
  
