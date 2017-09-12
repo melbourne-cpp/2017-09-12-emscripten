@@ -46,3 +46,7 @@ cd qt-0x
 ~/.../qt5-emscripten/bin/qmake CONFIG+=release
 make
 ```
+
+## Links
+
+* https://github.com/kripken/emscripten/wiki/Porting-Examples-and-Demos
